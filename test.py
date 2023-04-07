@@ -1,5 +1,5 @@
-import  this
-
-a = "왜 안되는거노 ?"
-
-b = "젯브레인 깃연동 왜 이따군데"
+s = "3people unFollowed         me"
+test = 0
+answer = []
+ls = list(map(str, s.split(' ')))
+print(ls)
