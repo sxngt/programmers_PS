@@ -1,3 +1,6 @@
-a = [[1, 4], [3, 5], [5, 3]]
+from itertools import permutations
 
-print(list(map(lambda x: x[0], a)))
+a = [6, 10, 2]
+
+c = permutations(a, 3)
+print(list(c))
