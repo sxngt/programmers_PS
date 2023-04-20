@@ -1,6 +1,4 @@
-from itertools import permutations
+print(2.0 == 2)
 
-a = [6, 10, 2]
 
-c = permutations(a, 3)
-print(list(c))
+
