@@ -1,3 +1,1 @@
-n = 3
-
-print("수박" * (n//2))
+print(type(bin(25)))
